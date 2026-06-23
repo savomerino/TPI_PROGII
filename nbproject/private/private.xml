@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/entities/Pedido.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/main/Main.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/exception/ValidacionNegocioException.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/service/ProductoService.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/service/UsuarioService.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/entities/Base.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/entities/Producto.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/entities/Categoria.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/entities/Usuario.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/exception/ElementoEliminadoException.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/exception/ElementoNoEncontradoException.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/exception/EntradaVaciaException.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/exception/ValidacionException.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/service/CategoriaService.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/service/PedidoService.java</file>
+            <file>file:/D:/UTN/PROGRAMACION%202/TPI/TPI/FoodStoreTPI/src/entities/DetallePedido.java</file>
+        </group>
+    </open-files>
+</project-private>
