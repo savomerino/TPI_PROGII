@@ -35,7 +35,7 @@ public class DetallePedido extends Base {
         return subtotal;
     }
 
-    //Este es setSubtotal que daba error.. ahora recibe double primitivo//
+    //setSubtotal que daba error. corregido con un double primitivo//
     public void setSubtotal(double subtotal) {
         this.subtotal = subtotal;
     }
