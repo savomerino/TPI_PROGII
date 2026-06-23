@@ -68,7 +68,7 @@ public class Main {
     }
 
     // ===================//
-    // MODULO: CATEGORIAS //
+    // MODULO: "Categoria" //
     // ================== //
     private static void menuCategorias() {
         boolean volver = false;
@@ -110,7 +110,7 @@ public class Main {
     }
 
     // ================= //
-    // MODULO: USUARIOS //
+    // MODULO: "Usuario" //
     // ================= //
     private static void menuUsuarios() {
         boolean volver = false;
@@ -165,7 +165,7 @@ public class Main {
     }
 
     // ===================//
-    // MODULO: PRODUCTOS //
+    // MODULO: "Productos" //
     // ==================//
     private static void menuProductos() {
         boolean volver = false;
@@ -252,7 +252,7 @@ public class Main {
     }
 
     // ==================//
-    // MODULO: PEDIDOS  //
+    // MODULO: "Pedidos"  //
     // =================//
     private static void menuPedidos() {
         boolean volver = false;
